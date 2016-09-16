@@ -21,10 +21,7 @@ Toda la documentación con respecto al funcionamiento de la pasarela de pago pue
 ## Instalación
 
 
-    Go to your admin area and select Plugins -> Add new from the menu.
-    Search for "Regenerate Thumbnails".
-    Click install.
-    Click activate.
+    Comunicarse con el desarrollador.
 
 
 ## Versión
