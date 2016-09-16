@@ -30,7 +30,7 @@ Toda la documentación con respecto al funcionamiento de la pasarela de pago pue
 ## Versión
 
 ```
-[1.0]
+[1.2]
 ```
 
 ## Portales donde funciona el plugin:
