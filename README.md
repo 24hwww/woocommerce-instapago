@@ -27,7 +27,7 @@ Toda la documentación con respecto al funcionamiento de la pasarela de pago pue
 ## Versión
 
 ```
-[1.3]
+[1.3.1]
 ```
 
 ## Portales donde funciona el plugin:
@@ -39,6 +39,10 @@ Toda la documentación con respecto al funcionamiento de la pasarela de pago pue
 * [https://www.espaciostapuy.com](https://www.espaciostapuy.com)
 
 * [https://www.cosan.com.ve](https://www.cosan.com.ve)
+
+* [http://www.parloffe.com/](http://www.parloffe.com/)
+
+* [http://tutorneo.biz/ticket/](http://tutorneo.biz/ticket/)
 
 ## NO OFICIAL
 
