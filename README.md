@@ -40,9 +40,11 @@ Toda la documentación con respecto al funcionamiento de la pasarela de pago pue
 
 * [https://www.cosan.com.ve](https://www.cosan.com.ve)
 
-* [http://www.parloffe.com/](http://www.parloffe.com/)
+* [https://www.parloffe.com/](http://www.parloffe.com/)
 
-* [http://tutorneo.biz/ticket/](http://tutorneo.biz/ticket/)
+* [https://tutorneo.biz/ticket/](http://tutorneo.biz/ticket/)
+
+* [https://www.latiendadelfanatico.com](http://www.latiendadelfanatico.com)
 
 ## NO OFICIAL
 
