@@ -1,4 +1,4 @@
-Woocommerce Instapago
+Woocommerce Instapago (Actualizado)
 =============
 
 ## Descripción
@@ -24,10 +24,20 @@ Toda la documentación con respecto al funcionamiento de la pasarela de pago pue
     Comunicarse con el desarrollador.
 
 
-## Versión
+## Changelog
 
 ```
-[1.3.1]
+19.11.2016 - Version 2.0
+- Mejoramiento de Codigo
+
+11.10.2016 - Version 1.3
+- Se agregaron todas las respuestas del servidor
+
+28.09.2016 - Version 1.2
+- Corrección de Errores
+
+04.02.2016 - Version 1.0
+- Lanzamiento del plugin
 ```
 
 ## Portales donde funciona el plugin:
@@ -46,9 +56,18 @@ Toda la documentación con respecto al funcionamiento de la pasarela de pago pue
 
 * [https://www.latiendadelfanatico.com](http://www.latiendadelfanatico.com)
 
-## NO OFICIAL
+## Respuestas a las preguntas frecuentes:
 
-El desarrollo de este plugin no tiene ninguna relacion con la marca instapago ni con nada relacionado a esta pasarela de pago, cada marca corresponde a sus dueños. este plugin fue realizado utilizando el API de instapago.
+0. Lea la documentación oficial de Instapago primero.
+1. Necesita tener el Woocommerce instalado para que funcione.
+2. El plugin y la plataforma instapago requiere obligatoriamente que tenga un certificado SSL en su pagina antes de instalar.
+3. No se almacena ningun dato de tarjeta de credito.
+4. Requiere que su servidor tenga soporte CURL.
+5. El costo del plugin se le informa cuando contacte al desarrollador por twitter o instagram.
+6. La compra del plugin incluye instalacion y soporte por 30 dias por sitio, es decir solo para un portal.
+7. El plugin se actualiza y se mantiene de acuerdo a las modificaciones que haga la plataforma instapago.
+8. Una vez instalado el plugin usted podra agregar sus llaves publicas y privadas, haciendo click en ajustes del plugin.
+9. El plugin ha sido probado y certificado por instapago en los portales arriba mencionados.
 
 ## Licencia
 
