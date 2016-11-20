@@ -5,7 +5,7 @@ Woocommerce Instapago (Actualizado)
 
 Plugin no oficial de la pasarela de pago de Instapago, Instapago es la solución tecnológica pensada para el mercado de comercio electrónico en Venezuela y Latinoamérica. Con este plugin podras incorporar a tu carrito de compras basado en woocommerce-wordpress la posibilidad de aceptar tarjeta de credito visa, mastercard, entre otras... 
 
-Para adquirir este plugin, darle ME GUSTA y comunicarse por: [https://www.facebook.com/24hwww/](https://www.facebook.com/24hwww/)
+#### Para adquirir este plugin, darle ME GUSTA y comunicarse por: [https://www.facebook.com/24hwww/](https://www.facebook.com/24hwww/)
 
 ## Detalles
 
