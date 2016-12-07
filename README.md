@@ -7,6 +7,9 @@ Plugin no oficial de la pasarela de pago de Instapago, Instapago es la solución
 
 #### Para adquirir este plugin, darle ME GUSTA y comunicarse por: [https://www.facebook.com/24hwww/](https://www.facebook.com/24hwww/)
 
+#### Importante!
+Lea toda la información aqui debajo antes de contactar al desarrollador.
+
 ## Detalles
 
 Toda la documentación con respecto al funcionamiento de la pasarela de pago puede encontrarla en:
@@ -69,11 +72,13 @@ VISTA DEL PLUGIN ACTUALIZADO.
 2. El plugin y la plataforma instapago requiere obligatoriamente que tenga un certificado SSL en su pagina antes de instalar.
 3. No se almacena ningun dato de tarjeta de credito.
 4. Requiere que su servidor tenga soporte CURL.
-5. El costo del plugin se le informa cuando contacte al desarrollador por twitter o instagram.
+5. El costo del plugin se le informa cuando contacte al desarrollador por facebook.com/24hwww.
 6. La compra del plugin incluye instalacion y soporte por 30 dias por sitio, es decir solo para un portal.
 7. El plugin se actualiza y se mantiene de acuerdo a las modificaciones que haga la plataforma instapago.
 8. Una vez instalado el plugin usted podra agregar sus llaves publicas y privadas, haciendo click en ajustes del plugin.
 9. El plugin ha sido probado y certificado por instapago en los portales arriba mencionados.
+10. Por el plugin solo se paga una sola vez, no hay mensualidad ni anualidad.
+11. El plugin no es oficial ni guarda ninguna relación con instapago ni empresas asociadas a instapago.
 
 ## Licencia
 
