@@ -54,6 +54,8 @@ VISTA DEL PLUGIN ACTUALIZADO.
 
 ## Portales donde funciona el plugin:
 
+* [https://www.credimport.net/](https://credimport.net/)
+
 * [https://www.globaldesillas.com/](https://globaldesillas.com/)
 
 * [https://www.giftshopve.com/](https://www.giftshopve.com/)
