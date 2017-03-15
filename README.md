@@ -2,7 +2,7 @@ Woocommerce Instapago (Actualizado)
 =============
 
 ## Nueva Información
-** Ya existe una versión gratuita de este plugin que pueden descargar [https://wordpress.org/plugins-wp/instapago/](aqui). Sin embargo, la versión que se esta comercializando garantiza una constante actualización y soporte las 24 horas. El plugin aqui documentado fue la primera instagración de instapago-wordpress-woocommerce, para mayor información escribe a: [https://www.facebook.com/24hwww/](https://www.facebook.com/24hwww/)
+** Ya existe una versión gratuita de este plugin que pueden descargar [aqui](https://wordpress.org/plugins-wp/instapago/). Sin embargo, la versión que se esta comercializando garantiza una constante actualización y soporte las 24 horas. El plugin aqui documentado fue la primera instagración de instapago-wordpress-woocommerce, para mayor información escribe a: [https://www.facebook.com/24hwww/](https://www.facebook.com/24hwww/)
 
 ## Descripción
 
