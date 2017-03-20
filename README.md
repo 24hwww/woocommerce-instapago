@@ -1,5 +1,8 @@
-Woocommerce Instapago (Actualizado)
+# Woocommerce Instapago. v.2.5 
 =============
+### !Nueva versión! con mas seguridad. Ahora se podra reconocer si la tarjeta de credito pertenece a algún banco Venezolano, para conocer si es valida o no.
+
+---
 
 ## Nueva Información
 ** Ya existe una versión gratuita de este plugin que pueden descargar [aqui](https://wordpress.org/plugins-wp/instapago/). Sin embargo, la versión que se esta comercializando garantiza una constante actualización y soporte las 24 horas. El plugin aqui documentado fue la primera integración de instapago-wordpress-woocommerce, para mayor información escribe a: [https://www.facebook.com/24hwww/](https://www.facebook.com/24hwww/)
@@ -39,6 +42,9 @@ VISTA DEL PLUGIN ACTUALIZADO.
 ## Changelog
 
 ```
+16.03.2017 - Version 2.5
+- Reconocimiento y Validación de Tarjeta de Credito
+
 19.11.2016 - Version 2.0
 - Mejoramiento de Codigo
 
