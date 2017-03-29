@@ -77,7 +77,8 @@ VISTA DEL PLUGIN ACTUALIZADO.
 
 ## Respuestas a las preguntas frecuentes:
 
-0. Lea la documentación oficial de Instapago primero.
+0. Lea la [documentación oficial](https://instapago.com/wp-content/uploads/2016/02/Guia-Integracion-API-Instapago-1.6.pdf) de Instapago primero.
+0.5 Lea las [preguntas frecuentes](https://instapago.com/preguntas-frecuentes/) de Instapago.
 1. Necesita tener el Woocommerce instalado para que funcione.
 2. El plugin y la plataforma instapago requiere obligatoriamente que tenga un certificado SSL en su pagina antes de instalar.
 3. No se almacena ningun dato de tarjeta de credito.
