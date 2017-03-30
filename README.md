@@ -24,11 +24,11 @@ Toda la documentación con respecto al funcionamiento de la pasarela de pago pue
 
 VISTA DEL PLUGIN ACTUALIZADO.
 
-![Screenshot](https://lh3.googleusercontent.com/MerJ57GP1bSpOSz_uR_8nb7RGzBT6KDegGcWFXlRCxOz21AUIcf0Aep3rLPjU7Tn4ku0_1izKIacaiM=w1024-h495 "Fronted Instapago")
+![Screenshot](http://i.imgur.com/YS2kS71.gif "Fronted Instapago")
 
 ## Vista BackEnd del Plugin:
 
-![Screenshot](https://lh6.googleusercontent.com/vLNX9tLguoA2uXH4H2M-ZdQ_6ZIkaeZHkSGkSCsbXbCRjAY33R6lckubA-ZXLsL1xnWNJaJXl2dMpy0=w1024-h495 "Backend Instapago")
+![Screenshot](http://i.imgur.com/cqGDV23.png "Backend Instapago")
 
 ## Instalación
 
