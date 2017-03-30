@@ -24,9 +24,7 @@ Toda la documentación con respecto al funcionamiento de la pasarela de pago pue
 
 VISTA DEL PLUGIN ACTUALIZADO.
 
-![Screenshot](https://dl.dropboxusercontent.com/u/1196814/%4024hwww/plugin-woocommerce-instapago-nuevo.png "Plugin Actualizado")
-
-![Screenshot](https://dl.dropboxusercontent.com/u/1196814/%4024hwww/screenshot-github-wc-instapago.png "Optional Title")
+![Screenshot](https://drive.google.com/open?id=0B3CPdIlF9syeNGNDS0Z6cHdzMmc "Plugin Actualizado")
 
 ## Vista BackEnd del Plugin:
 
