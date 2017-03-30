@@ -24,7 +24,7 @@ Toda la documentación con respecto al funcionamiento de la pasarela de pago pue
 
 VISTA DEL PLUGIN ACTUALIZADO.
 
-![Screenshot](https://drive.google.com/file/d/0B3CPdIlF9syeNGNDS0Z6cHdzMmc/view "Plugin Actualizado")
+![Screenshot](https://lh3.googleusercontent.com/MerJ57GP1bSpOSz_uR_8nb7RGzBT6KDegGcWFXlRCxOz21AUIcf0Aep3rLPjU7Tn4ku0_1izKIacaiM=w1024-h495 "Plugin Actualizado")
 
 ## Vista BackEnd del Plugin:
 
@@ -92,4 +92,3 @@ VISTA DEL PLUGIN ACTUALIZADO.
 ## Licencia
 
 Commercial
-jm
