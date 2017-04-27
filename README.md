@@ -8,6 +8,7 @@
 + Versón paga
 # Fue el primer plugin desarrollado para woocommerce de instapago.
 # Sigue todos los parametros de la documentación oficial.
+# Panel de ajustes simples. 
 # Constantes actualizaciones y mejoras.
 # Soporte técnico y Atención Inmediata.
 # No esta en el directorio oficial de Wordpress.
