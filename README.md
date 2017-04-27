@@ -67,7 +67,7 @@ VISTA DEL PLUGIN ACTUALIZADO.
 - Lanzamiento del plugin
 ```
 
-## &#x1F4DA; Portales donde funciona el plugin:
+## &#x1F4BC; Portales donde funciona el plugin:
 
 * [https://www.credimport.net/](https://credimport.net/)
 
@@ -85,7 +85,7 @@ VISTA DEL PLUGIN ACTUALIZADO.
 
 * [https://www.latiendadelfanatico.com](http://www.latiendadelfanatico.com)
 
-## &#x1F4DA; Respuestas a las preguntas frecuentes:
+## &#x1F33C; Respuestas a las preguntas frecuentes:
 
 0. Lea la [documentación oficial](https://instapago.com/wp-content/uploads/2016/02/Guia-Integracion-API-Instapago-1.6.pdf) de Instapago primero.
 0.5 Lea las [preguntas frecuentes](https://instapago.com/preguntas-frecuentes/) de Instapago.
