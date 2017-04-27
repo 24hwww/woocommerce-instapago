@@ -3,7 +3,7 @@
 
 ---
 
-## Leer: Diferencias entre la versión paga y versión gratuita &#x1F4D8;
+## &#x1F4D8; Leer: Diferencias entre la versión paga y versión gratuita 
 ```diff
 + Versón paga
 # Fue el primer plugin desarrollado para woocommerce de instapago.
@@ -18,37 +18,37 @@
 # Completamente gratuito.
 ```
 
-## Descripción
+## &#x1F4B2; Descripción
 
 Plugin no oficial de la pasarela de pago de Instapago, Instapago es la solución tecnológica pensada para el mercado de comercio electrónico en Venezuela y Latinoamérica. Con este plugin podras incorporar a tu carrito de compras basado en woocommerce-wordpress la posibilidad de aceptar tarjeta de credito visa, mastercard, entre otras... 
 
-#### Para adquirir este plugin, darle ME GUSTA y comunicarse por: [https://www.facebook.com/24hwww/](https://www.facebook.com/24hwww/)
+#### &#x1F44D; Para adquirir este plugin, darle ME GUSTA y comunicarse por: [https://www.facebook.com/24hwww/](https://www.facebook.com/24hwww/)
 
-#### Importante!
+#### &#x1F425; Importante!
 Lea toda la información aqui debajo antes de contactar al desarrollador.
 
-## Detalles
+## &#x1F3E1; Detalles
 
 Toda la documentación con respecto al funcionamiento de la pasarela de pago puede encontrarla en:
 [https://instapago.com/](https://instapago.com/)
 
-## Vista FrontEnd del Plugin:
+## &#x1F476; Vista FrontEnd del Plugin:
 
 VISTA DEL PLUGIN ACTUALIZADO.
 
 ![Screenshot](http://i.imgur.com/YS2kS71.gif "Fronted Instapago")
 
-## Vista BackEnd del Plugin:
+## &#x1F474; Vista BackEnd del Plugin:
 
 ![Screenshot](http://i.imgur.com/cqGDV23.png "Backend Instapago")
 
-## Instalación
+## &#x1F4DE; Instalación
 
 
     Comunicarse con el desarrollador.
 
 
-## Changelog
+## &#x1F4DD; Changelog
 
 ```
 16.03.2017 - Version 2.5
@@ -67,7 +67,7 @@ VISTA DEL PLUGIN ACTUALIZADO.
 - Lanzamiento del plugin
 ```
 
-## Portales donde funciona el plugin:
+## &#x1F4DA; Portales donde funciona el plugin:
 
 * [https://www.credimport.net/](https://credimport.net/)
 
@@ -85,7 +85,7 @@ VISTA DEL PLUGIN ACTUALIZADO.
 
 * [https://www.latiendadelfanatico.com](http://www.latiendadelfanatico.com)
 
-## Respuestas a las preguntas frecuentes:
+## &#x1F4DA; Respuestas a las preguntas frecuentes:
 
 0. Lea la [documentación oficial](https://instapago.com/wp-content/uploads/2016/02/Guia-Integracion-API-Instapago-1.6.pdf) de Instapago primero.
 0.5 Lea las [preguntas frecuentes](https://instapago.com/preguntas-frecuentes/) de Instapago.
@@ -101,5 +101,5 @@ VISTA DEL PLUGIN ACTUALIZADO.
 10. Por el plugin solo se paga una sola vez, no hay mensualidad ni anualidad.
 11. El plugin no es oficial ni guarda ninguna relación con instapago ni empresas asociadas a instapago.
 
-## Licencia &#x1F4B2;
+## &#x1F4B2; Licencia 
 Commercial
