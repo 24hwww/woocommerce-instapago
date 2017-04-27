@@ -3,7 +3,7 @@
 
 ---
 
-## Leer: Diferencia entre la versión paga y versión gratuita (&#x1F4D8;)
+## Leer: Diferencia entre la versión paga y versión gratuita &#x1F4D8;
 ```diff
 + Versón paga
 # Fue el primer plugin desarrollado para woocommerce de instapago.
