@@ -1,4 +1,4 @@
-# ```html Woocommerce Instapago. v.2.5```
+# ``` Woocommerce Instapago. v.2.5```
 ### !Nueva versión! con mas seguridad. Ahora se podra reconocer si la tarjeta de credito pertenece a algún banco Venezolano, para conocer si es valida o no.
 
 ---
