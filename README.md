@@ -3,7 +3,14 @@
 
 ---
 
-## Nueva Información
+## Leer: Diferencia entre la versión paga y versión gratuita
+```diff
++ Versón paga
+- Versión gratuita
+```
+
+
+
 ** Ya existe una versión gratuita de este plugin que pueden descargar [aqui](https://wordpress.org/plugins-wp/instapago/). Sin embargo, la versión que se esta comercializando garantiza una constante actualización y soporte las 24 horas. El plugin aqui documentado fue la primera integración de instapago-wordpress-woocommerce, para mayor información escribe a: [https://www.facebook.com/24hwww/](https://www.facebook.com/24hwww/)
 
 ## Descripción
