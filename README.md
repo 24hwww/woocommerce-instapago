@@ -3,7 +3,7 @@
 
 ---
 
-## Leer: Diferencia entre la versión paga y versión gratuita
+## Leer: Diferencia entre la versión paga y versión gratuita (&#x1F4D8;)
 ```diff
 + Versón paga
 # Fue el primer plugin desarrollado para woocommerce de instapago.
@@ -11,9 +11,11 @@
 # Constatente Actualización y Mejoras.
 # Soporte técnico y Atención Inmediata.
 # No esta en el directorio oficial de Wordpress.
+# Tiene un costo.
 - Versión gratuita
 # Se encuentra en el directorio oficial de Wordpress.
 # Creado por otro desarrollador.
+# Completamente gratuito.
 ```
 
 
