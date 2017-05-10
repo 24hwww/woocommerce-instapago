@@ -52,6 +52,9 @@ VISTA DEL PLUGIN ACTUALIZADO.
 ## &#x1F4DD; Changelog
 
 ```
+10.05.2017 - Version 2.5.3
+- Soporte Woocommerce 3.x
+
 16.03.2017 - Version 2.5
 - Reconocimiento y Validación de Tarjeta de Credito
 
