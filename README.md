@@ -89,6 +89,8 @@ VISTA DEL PLUGIN ACTUALIZADO.
 
 * [https://www.latiendadelfanatico.com](http://www.latiendadelfanatico.com)
 
+* [https://www.materialesnor.com.ve](http://www.materialesnor.com.ve)
+
 ## &#x1F33C; Respuestas a las preguntas frecuentes:
 
 0. Lea la [documentación oficial](https://instapago.com/wp-content/uploads/2016/02/Guia-Integracion-API-Instapago-1.6.pdf) de Instapago primero.
