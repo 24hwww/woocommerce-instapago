@@ -46,7 +46,7 @@ VISTA DEL PLUGIN ACTUALIZADO.
 ## &#x1F4DE; Instalación
 
 
-    Comunicarse con el desarrollador.
+    Comunicarse con el desarrollador. --> [https://www.facebook.com/24hwww/](https://www.facebook.com/24hwww/)
 
 
 ## &#x1F4DD; Changelog
@@ -75,6 +75,8 @@ VISTA DEL PLUGIN ACTUALIZADO.
 ```
 
 ## &#x1F4BC; Portales donde funciona el plugin:
+
+* [https://www.misuperexpress.net](https://www.misuperexpress.net)
 
 * [https://www.credimport.net/](https://credimport.net/)
 
